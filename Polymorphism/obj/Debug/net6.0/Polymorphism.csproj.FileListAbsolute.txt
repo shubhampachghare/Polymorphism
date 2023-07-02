@@ -1,0 +1,15 @@
+C:\RFP 289\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\RFP 289\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\RFP 289\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\RFP 289\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\RFP 289\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+C:\RFP 289\Polymorphism\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
